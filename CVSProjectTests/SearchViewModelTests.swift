@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import CVSProject
 
 final class SearchViewModelTests: XCTestCase {
 
